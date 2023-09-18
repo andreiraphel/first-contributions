@@ -36,7 +36,7 @@
 - [Pokruk](https://github.com/Pokruk)
 - [NaveenNagaraja](https://github.com/NaveenNagaraja)
 - [gold]
-- [Andrei Raphel Amang](https://github.com/andreiraphel)
+- [Andrei Amang](https://github.com/andreiraphel)
 - [Amin Awinti](https://github.com/Amin-Awinti)
 - [Raghav Pandit](https://github.com/panditraghav)
 - [Julian Vickers](https://github.com/JulianVickers)
